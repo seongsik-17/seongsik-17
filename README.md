@@ -1,12 +1,5 @@
 ## Hi there 👋
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/713375719199460461/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+
 <!--
 **jipgaja/jipgaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
